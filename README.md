@@ -12,7 +12,7 @@ Fraud Prevention: Cryptographic proof of claims through IoT/oracle integration
 
 Global Accessibility: Borderless insurance products with crypto payments
 
-## 🛠️ System Architecture
+## 🛠️ System Architecture 
 graph LR
 A[User Interface] -->|Vue.js| B[Frontend]
 B -->|Web3.js| C[Smart Contracts]
